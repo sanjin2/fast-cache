@@ -1,6 +1,6 @@
 {
   "name": "fast-cache",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "短小精悍的前端缓存工具",
   "main": "index.js",
   "scripts": {
@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/sanjin2/fast-cache/issues"
   },
-  "homepage": "https://github.com/sanjin2/fast-cache#readme"
+  "homepage": "https://github.com/sanjin2/fast-cache#readme",
+  "directories": {
+    "doc": "doc",
+    "example": "example",
+    "test": "test"
+  }
 }
